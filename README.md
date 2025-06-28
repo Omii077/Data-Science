@@ -10,7 +10,7 @@
 
 ### Home Page:
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1A7LQAsf-VSwH9aaV3Hoe6HNFSkcW75xA" width="800" alt="Image 2">
+<img src="https://drive.google.com/uc?export=view&id=1VV1wN8PPjj7S8us5XlI-TRSamWWCOJlp">
 </p>
 
 ### Input Page:
@@ -34,7 +34,7 @@ conda create -n restaurant_recommender python=3.10
 conda activate restaurant_recommender
 
 # Clone the repository
-git clone https://github.com/Rohitmh09/Restaurant-Recommendation-System.git
+git clone https://github.com/Omii077/Data-Science.git
 cd Restaurant-Recommendation-System/Flask
 
 # Install dependencies
