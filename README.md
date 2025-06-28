@@ -15,12 +15,14 @@
 
 ### Input Page:
 <p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1UdSUpmxsSX8U4m-FUajcVXhyxH7Hbbcp" width="800" alt="Image 1">
+<img src="https://drive.google.com/uc?export=view&id=1lNHnFnX8FekgjmAyUpZrdsdYtelBKMtf" width="800" alt="Image 2">
+
 </p>
 
 ### Recommendation Output:
 <p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1HuFP_R1lDc6fNU0wAM5POq5HwfuipjEI" width="800" alt="Image 3">
+ <img src="https://drive.google.com/uc?export=view&id=1tUPpC6Sfv3NuAKdbovjwLbgDq57-DuHt" width="800" alt="Image 3">
+
 </p>
 
 ## **Installation and Setup**
